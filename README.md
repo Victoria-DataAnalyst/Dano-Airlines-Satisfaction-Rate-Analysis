@@ -13,6 +13,7 @@ Customer satisfaction from Dano Airlines, a UK-based carrier headquartered in Lo
 - Average Service Rating: 3.24 / 5
 - Average Total Delay: 29.76 minutes
 
+![]
 The analysis indicates that travel **Class** is the strongest factor to be considered for passengers’ satisfaction, with **Economy** Class passengers showing critically low satisfaction levels.
 
 ## Tools & Technologies:
@@ -36,5 +37,8 @@ The analysis indicates that travel **Class** is the strongest factor to be consi
 -  Dashboard Development
 -  Insights and Actionable Recommendations
 
-  
+  ## Key Insights:
 
+- **Lowest Rated Areas:** In-flight WiFi Service, Ease of Online Booking, Online Boarding, Seat Comfort, Gate Location
+- **Moderate Rated Areas:** Departure and Arrival Time Convenience, Food and Drink, Leg Room Service, In-flight Entertainment
+- **Highest Rated areas:** Cleanliness, Check-in Service, On-board Service, Baggage Handling, In-flight Service
