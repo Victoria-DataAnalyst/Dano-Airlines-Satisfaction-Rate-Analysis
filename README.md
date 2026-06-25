@@ -1,7 +1,7 @@
 # Dano-Airlines-Satisfaction-Rate-Analysis
 End-to-end Power BI analysis of Dano Airlines customer satisfaction survey. Identified key drivers of dissatisfaction and provided data-driven recommendations to increase satisfaction rate above 50%
 
-![](https://github.com/Victoria-DataAnalyst/Dano-Airlines-Satisfaction-Rate-Analysis/blob/main/Dashboard.png)
+![](https://github.com/Victoria-DataAnalyst/Dano-Airlines-Satisfaction-Rate-Analysis/blob/main/Airplane.jpg)
 
 ## Project Overview:
 
