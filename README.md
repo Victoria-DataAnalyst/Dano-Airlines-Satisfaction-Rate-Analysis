@@ -35,7 +35,7 @@ The analysis indicates that travel **Class** is the strongest factor to be consi
 - Feature Generation (Age Category, Total Delay, Delay Category)
 -  Unpivoting of 14 service ratings columns
 -  Exploratory Data Analysis and Visualization
--  Dashboard Development
+-  Interactive Dashboard Development
 -  Insights and Actionable Recommendations
 
   ## Key Insights:
@@ -48,4 +48,24 @@ The analysis indicates that travel **Class** is the strongest factor to be consi
 
 - Significant gaps exists in digital experience and physical comfort
 
-##
+## Dashboard Features:
+
+- Interactive KPIs
+- Service ratings analysis with satisfaction breakdown
+- Satisfaction by Class, Travel Type, and Age Category
+
+![](https://github.com/Victoria-DataAnalyst/Dano-Airlines-Satisfaction-Rate-Analysis/blob/main/Screenshot%20-%20Dashboard.png)
+
+## Recommendations:
+
+- Launch targeted Economy Class Improvement program
+- Upgrade digital experience for travelers
+- Delay Reduction, Communication and Compensation
+- Upgrade seats and increase legroom at a small fee for Economy Class
+
+## Conclusion:
+
+- Create cross-functional teams to improve the lowest rated areas: In-flight WiFi Service, Online Booking, and Seat Comfort.
+- implement a pilot improvement program focused on upgrading the targeted Economy class experience.
+- Monitor monthly satisfaction metrics with a focus on segmented performance.
+- Conduct follow-up surveys after implementing key changes.
